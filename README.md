@@ -1,1 +1,1 @@
-# Stock-Price-prediction-using-Stacked-LSTMed-
+# Stock-Price-prediction-using-Stacked-LSTM-
